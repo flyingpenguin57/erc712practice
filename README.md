@@ -1,1 +1,1 @@
-erc 712 demo
+eip 712 demo
